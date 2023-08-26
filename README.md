@@ -1,11 +1,8 @@
 By the project-sources ordner you have the two summaires in german and english and
 you can read them. So you will better undertand the project.
-There is also the Excel sheet with the diagram of the orject.
+There is also the Excel sheet with the diagram of the project.
 
 When you want more information then you need to read the sientific-technical-report.
-
-IMORTANT: In the secondary language video, the presenattion begins by 10 min 
-
 
 How to use the NetBeans tool:
 
