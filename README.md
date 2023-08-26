@@ -11,7 +11,7 @@ How to use the NetBeans tool:
 
 1) Open Netbeans
 2) Then go by 'File' and click 'Open project'
-3) Chose the 'GCD_Algorithms'
+3) Chose the 'GCD_Algorithm_Code'
 4) Click on the green arrow and it will appear a window
 5) When the window is there,you can use the Integer part or the BigInteger part
 
