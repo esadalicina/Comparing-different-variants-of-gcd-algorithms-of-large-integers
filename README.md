@@ -1,6 +1,7 @@
 This repository contains my first-semester project from my Bachelor's in Computer Science. The project focuses on comparing different algorithms for calculating the Greatest Common Divisor (GCD) with BigInteger. By exploring five different GCD algorithms, the goal was to evaluate their performance and efficiency when implemented in Java. 
 
-# The project covers the following algorithms:
+The project covers the following algorithms:
+
 - Euclidean algorithm
 - Extended Euclidean algorithm
 - Binary algorithm (Stein's algorithm)
