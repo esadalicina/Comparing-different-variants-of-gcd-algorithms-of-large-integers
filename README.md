@@ -1,6 +1,6 @@
 This repository contains my first-semester project from my Bachelor's in Computer Science. The project focuses on comparing different algorithms for calculating the Greatest Common Divisor (GCD) with BigInteger. By exploring five different GCD algorithms, the goal was to evaluate their performance and efficiency when implemented in Java. 
 
-The project covers the following algorithms:
+# The project covers the following algorithms:
 - Euclidean algorithm
 - Extended Euclidean algorithm
 - Binary algorithm (Stein's algorithm)
@@ -11,7 +11,7 @@ I implemented these algorithms using NetBeans (Java) and recorded their executio
 
 
 
-Reports/Papers from the repository for better understanding:
+# Reports/Papers from the repository for better understanding:
 
 - bsp01_licina_esada_primary_language_summary.pdf
 - bsp01_licina_esada_scientific_and_technical_report.pdf
@@ -19,7 +19,7 @@ Reports/Papers from the repository for better understanding:
 
 
 
-To run your project in NetBeans after cloning the repository and installing NetBeans, follow these steps:
+# To run your project in NetBeans after cloning the repository and installing NetBeans, follow these steps:
 
 - Open NetBeans: Launch the NetBeans IDE on your computer.
 - Clone the Repository (if not already done): If you haven’t cloned the repository yet, open a terminal (Command Prompt, Git Bash, etc.) and run:
@@ -32,7 +32,7 @@ To run your project in NetBeans after cloning the repository and installing NetB
 
 
 
-Output Window Function: 
+# Output Window Function: 
 
 
 INTEGER:
