@@ -10,8 +10,7 @@ This repository contains my first-semester project from my Bachelor's in Compute
 I implemented these algorithms using NetBeans (Java) and recorded their execution times in Excel to create performance graphs. The project also includes a detailed analysis, focusing on both the scientific evaluation of algorithm performance and the technical aspects of the code.
 
 
-
-# Reports/Papers from the repository for better understanding:
+Reports/Papers from the repository for better understanding:
 
 - bsp01_licina_esada_primary_language_summary.pdf
 - bsp01_licina_esada_scientific_and_technical_report.pdf
