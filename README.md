@@ -9,6 +9,8 @@ The project covers the following algorithms:
 
 I implemented these algorithms using NetBeans (Java) and recorded their execution times in Excel to create performance graphs. The project also includes a detailed analysis, focusing on both the scientific evaluation of algorithm performance and the technical aspects of the code.
 
+
+
 Reports/Papers from the repository for better understanding:
 
 - bsp01_licina_esada_primary_language_summary.pdf
@@ -16,31 +18,22 @@ Reports/Papers from the repository for better understanding:
 - bsp01_licina_esada_secondary_language_summary.pdf
 
 
+
 To run your project in NetBeans after cloning the repository and installing NetBeans, follow these steps:
 
-- Open NetBeans:
+- Open NetBeans: Launch the NetBeans IDE on your computer.
+- Clone the Repository (if not already done): If you haven’t cloned the repository yet, open a terminal (Command Prompt, Git Bash, etc.) and run:
+-          git clone <repository_url>
+- Open the Project in NetBeans: In NetBeans, go to File -> Open Project. Browse to the folder where you cloned the repository, and select the project folder 'GCD_Algorithm_Code'. Click Open Project.
+- Ensure Dependencies Are Set Up: After opening the project, NetBeans may prompt you to resolve any dependencies (libraries or missing files). If Java libraries (like BigInteger) are needed, ensure they are available in the project. NetBeans typically handles the setup of built-in Java libraries automatically.
+- Build the Project: Before running the project, build it by selecting Build -> Build Project from the menu, or right-click the project in the Projects pane and choose Build. This will compile the code and ensure there are no errors.
+- Run the Project: Once the build is successful, you can run the project by selecting Run -> Run Project, or right-click the project in the Projects pane and select Run. If there is a main() method in your project, it will execute the main class.
 
-         - Launch the NetBeans IDE on your computer.
-- Clone the Repository (if not already done):
-         - If you haven’t cloned the repository yet, open a terminal (Command Prompt, Git Bash, etc.) and run:
-                  - git clone <repository_url>
-                  Replace <repository_url> with the URL of your repository.
-- Open the Project in NetBeans:
-         - In NetBeans, go to File -> Open Project.
-         - Browse to the folder where you cloned the repository, and select the project folder 'GCD_Algorithm_Code'.
-         - Click Open Project.
-- Ensure Dependencies Are Set Up:
-         - After opening the project, NetBeans may prompt you to resolve any dependencies (libraries or missing files).
-         - If Java libraries (like BigInteger) are needed, ensure they are available in the project. NetBeans typically handles the setup of built-in Java libraries automatically.
-- Build the Project:
-         - Before running the project, build it by selecting Build -> Build Project from the menu, or right-click the project in the Projects pane and choose Build.
-         - This will compile the code and ensure there are no errors.
-- Run the Project:
-         - Once the build is successful, you can run the project by selecting Run -> Run Project, or right-click the project in the Projects pane and select Run.
-         - If there is a main() method in your project, it will execute the main class.
+
 
 
 Output Window Function: 
+
 
 INTEGER:
 This section is designed to calculate numbers under 32 bits, which can represent values between -2,147,483,647 and 2,147,483,647 (a maximum of 10 digits). 
