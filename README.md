@@ -1,4 +1,4 @@
-## Comparing different variants of gcd algorithms of large integers
+# Comparing different variants of gcd algorithms of large integers
 
 This repository contains my first-semester project from my Bachelor's in Computer Science. The project focuses on comparing different algorithms for calculating the Greatest Common Divisor (GCD) with BigInteger. By exploring five different GCD algorithms, the goal was to evaluate their performance and efficiency when implemented in Java. 
 
@@ -21,7 +21,7 @@ Reports/Papers from the repository for better understanding:
 
 
 
-# To run your project in NetBeans after cloning the repository and installing NetBeans, follow these steps:
+## To run your project in NetBeans after cloning the repository and installing NetBeans, follow these steps:
 
 - Open NetBeans: Launch the NetBeans IDE on your computer.
 - Clone the Repository (if not already done): If you haven’t cloned the repository yet, open a terminal (Command Prompt, Git Bash, etc.) and run:
@@ -34,7 +34,7 @@ Reports/Papers from the repository for better understanding:
 
 
 
-# Output Window Function: 
+## Output Window Function: 
 
 
 INTEGER:
