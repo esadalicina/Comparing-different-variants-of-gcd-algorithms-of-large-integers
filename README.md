@@ -19,6 +19,7 @@ Reports/Papers from the repository for better understanding:
 To run your project in NetBeans after cloning the repository and installing NetBeans, follow these steps:
 
 - Open NetBeans:
+
          - Launch the NetBeans IDE on your computer.
 - Clone the Repository (if not already done):
          - If you haven’t cloned the repository yet, open a terminal (Command Prompt, Git Bash, etc.) and run:
